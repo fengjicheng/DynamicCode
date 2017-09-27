@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\ValidyCode\ValidyCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ValidyCode\ValidyCode\bin\ValidyCode.dll
+C:\Documents and Settings\Administrator\桌面\ValidyCode\ValidyCode\bin\ValidyCode.pdb
+C:\Documents and Settings\Administrator\桌面\ValidyCode\ValidyCode\obj\Debug\ValidyCode.dll
+C:\Documents and Settings\Administrator\桌面\ValidyCode\ValidyCode\obj\Debug\ValidyCode.pdb
+C:\360极速浏览器下载\ValidyCode\ValidyCode\bin\ValidyCode.dll.config
+C:\360极速浏览器下载\ValidyCode\ValidyCode\bin\ValidyCode.dll
+C:\360极速浏览器下载\ValidyCode\ValidyCode\bin\ValidyCode.pdb
+C:\360极速浏览器下载\ValidyCode\ValidyCode\obj\Debug\ValidyCode.csprojResolveAssemblyReference.cache
+C:\360极速浏览器下载\ValidyCode\ValidyCode\obj\Debug\ValidyCode.csproj.CoreCompileInputs.cache
+C:\360极速浏览器下载\ValidyCode\ValidyCode\obj\Debug\ValidyCode.dll
+C:\360极速浏览器下载\ValidyCode\ValidyCode\obj\Debug\ValidyCode.pdb
