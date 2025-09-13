@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ValidyCode")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("灵雨工作室")]
+[assembly: AssemblyCompany("SAPLL ")]
 [assembly: AssemblyProduct("ValidyCode")]
-[assembly: AssemblyCopyright("Copyright © 灵雨工作室 2014")]
+[assembly: AssemblyCopyright("Copyright © SAP ALL 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
